@@ -5,8 +5,11 @@ public class PrintDigits {
         // int n = ob.nextInt();
         // int[] arr = new int[3];
         // num = ob.nextInt();
+        System.out.println("Enter A value");
         int a = ob.nextInt();
+        System.out.println("Enter B value");
         int b = ob.nextInt();
+        System.out.println("Enter C value");
         int c = ob.nextInt();
         System.out.println(a);
         System.out.println(b);
